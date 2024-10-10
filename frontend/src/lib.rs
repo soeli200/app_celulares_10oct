@@ -1,6 +1,7 @@
+use wasm_bindgen::prelude::*;
 use yew::prelude::*;
 use yew_router::prelude::*;
-use crate::router::routes::{Route, switch}; // Importa la función switch y el enum Route
+use crate::router::routes::{Route, switch};
 
 mod router;
 mod paginas;
@@ -15,6 +16,8 @@ fn app() -> Html {
     }
 }
 
-//fn main() {
-//    yew::start_app::<App>();
-//}
+#[wasm_bindgen(start)]
+pub fn run_app() -> Result<(), JsValue> {
+    yew::Renderer::<App>::new().render();
+    Ok(())
+}

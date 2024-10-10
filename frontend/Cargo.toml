@@ -3,6 +3,9 @@ name = "app_celulares_copiafuncional"
 version = "0.1.0"
 edition = "2021"
 
+[lib]
+crate-type = ["cdylib", "rlib"]
+
 [dependencies]
 yew = { version = "0.20", features = ["csr"]}
 stylist = "0.7.0"
@@ -11,10 +14,14 @@ web-sys = "0.3.55"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 yew-router = "0.17"
+wasm-bindgen-futures = "0.4"
+js-sys = "0.3"
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3"
 
-[lib]
-name = "app_celulares_copiafuncional"
-path = "src/lib.rs"
+[profile.release]
+opt-level = 'z'
+lto = true
+codegen-units = 1
+panic = 'abort'

@@ -1,0 +1,10 @@
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/debug/deps/libarrayvec-fbc63f0816368d4d.rmeta: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/debug/deps/arrayvec-fbc63f0816368d4d.d: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs:

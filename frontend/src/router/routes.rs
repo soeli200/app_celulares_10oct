@@ -6,9 +6,9 @@ use crate::paginas::not_found::not_found::NotFound;
 
 #[derive(Routable, PartialEq, Clone, Debug)]
 pub enum Route {
-    #[at("/registro")]
-    Registro,
     #[at("/")]
+    Registro,
+    #[at("/registro")]
     Home,
     #[not_found]
     #[at("/404")]

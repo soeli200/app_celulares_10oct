@@ -1,0 +1,11 @@
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/debug/deps/libmemchr-5ead0feba1ce0e37.rmeta: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/fallback.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/iter.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/naive.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/mod.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/avx.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/sse2.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/debug/deps/memchr-5ead0feba1ce0e37.d: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/fallback.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/iter.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/naive.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/mod.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/avx.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/sse2.rs
+
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/lib.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/fallback.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/iter.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/naive.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/mod.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/avx.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memchr-2.3.4/src/x86/sse2.rs:

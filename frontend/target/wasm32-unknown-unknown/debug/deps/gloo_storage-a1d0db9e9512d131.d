@@ -1,0 +1,10 @@
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-a1d0db9e9512d131.rmeta: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-a1d0db9e9512d131.rlib: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/gloo_storage-a1d0db9e9512d131.d: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs:

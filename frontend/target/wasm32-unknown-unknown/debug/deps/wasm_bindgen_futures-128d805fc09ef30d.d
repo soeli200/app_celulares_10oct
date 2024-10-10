@@ -1,0 +1,9 @@
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-128d805fc09ef30d.rmeta: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-128d805fc09ef30d.rlib: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-128d805fc09ef30d.d: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs:

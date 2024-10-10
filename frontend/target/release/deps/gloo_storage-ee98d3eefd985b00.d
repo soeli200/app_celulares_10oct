@@ -1,0 +1,10 @@
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/release/deps/libgloo_storage-ee98d3eefd985b00.rmeta: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/release/deps/libgloo_storage-ee98d3eefd985b00.rlib: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/Documentos/Copia de appCelularesCopiafuncional/frontend/target/release/deps/gloo_storage-ee98d3eefd985b00.d: /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs:
+/home/siriuyao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs:

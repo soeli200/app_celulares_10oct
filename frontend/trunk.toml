@@ -1,2 +1,23 @@
+[serve]
+port = 8089
+
 [build]
-target = "wasm32-unknown-unknown"
+ignore = [
+    "node_modules/**",
+    "dist/**",
+    ".git/**",
+    "logs/**",
+    "tmp/**",
+    "*.log",
+    "*.tmp",
+    "*.bak",
+    "*.swp",
+    "*.swo",
+    "*.DS_Store",
+    "Thumbs.db",
+    "coverage/**",
+    "*.test.js",
+    "*.spec.js",
+    "*.test.ts",
+    "*.spec.ts"
+]
